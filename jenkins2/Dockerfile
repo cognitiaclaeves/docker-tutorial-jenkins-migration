@@ -1,7 +1,7 @@
 
 # Adapted from http://shashikantjagtap.net/get-started-with-brand-new-jenkins-2-0-with-docker/
 
-FROM jenkins-2.71
+FROM jenkins
 USER root
 RUN mkdir /var/log/jenkins
 RUN mkdir /var/cache/jenkins

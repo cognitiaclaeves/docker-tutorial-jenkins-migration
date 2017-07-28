@@ -1,0 +1,118 @@
+ace-editor
+jquery-detached
+structs
+display-url-api
+mailer
+cloudbees-folder
+scm-api
+credentials
+plain-credentials
+credentials-binding
+resource-disposer
+
+conditional-buildstep
+run-condition
+workflow-multibranch 
+
+pipeline-input-step
+pipeline-stage-view 
+pipeline-model-definition
+pipeline-stage-step
+pipeline-build-step
+pipeline-milestone-step
+pipeline-model-api
+pipeline-model-declarative-agent
+pipeline-model-extensions
+pipeline-stage-tags-metadata
+pipeline-graph-analysis
+
+pipeline-rest-api
+handlebars
+momentjs
+
+icon-shim
+branch-api
+
+authentication-tokens
+cobertura
+build-monitor-plugin
+dashboard-view
+diskcheck
+docker-commons
+docker-plugin
+docker-build-step
+docker-build-publish
+docker-traceability
+docker-workflow
+dockerhub-notification
+
+durable-task
+javadoc
+JiraTestResultReporter
+junit
+kubernetes
+maven-plugin
+parameterized-trigger
+regression-report-plugin
+script-security
+ssh-credentials
+jsch
+ssh
+ssh-slaves
+ws-cleanup
+
+
+async-http-client
+audit-trail
+blame-upstream-commiters
+build-metrics
+# external-monitor-job
+git-client
+git-server
+global-build-stats
+# hipchat
+jobConfigHistory
+matrix-project
+scriptler
+token-macro
+workflow-aggregator
+workflow-api
+workflow-basic-steps
+workflow-cps-global-lib
+workflow-cps
+workflow-durable-task-step
+# workflow-job
+workflow-scm-step
+workflow-step-api
+workflow-support
+
+role-strategy
+greenballs
+
+
+# hudson global build-stats
+# build metrics
+# job configuration history
+# git client
+# git server
+# scriptier
+# token macro
+# blame upstream
+# hipchat
+# pipeline
+# pipeline api
+# pipeline job
+# pipeline global shared
+# pipeline scm step
+# pipeline execution
+# audit trail
+
+# cloudbees docker traceability
+# cloudbees docker workflow
+# cloudbees docker build and publish
+# async http
+# cloudbees docker hub notification
+
+
+# - translation assistance
+# todo
